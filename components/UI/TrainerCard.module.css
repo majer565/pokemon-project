@@ -1,0 +1,66 @@
+.box {
+  width: 234px;
+  height: 312px;
+  border-radius: 10px;
+  transition: all 0.2s ease-in;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.box:hover {
+  margin-top: -10px;
+  -webkit-box-shadow: 0px 8px 10px 0px rgba(255, 255, 255, 0.3);
+  -moz-box-shadow: 0px 8px 10px 0px rgba(255, 255, 255, 0.3);
+  box-shadow: 0px 8px 10px 0px rgba(255, 255, 255, 0.3);
+}
+
+.head {
+  padding: 0.4rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.trainer {
+  font-family: "Roboto", sans-serif;
+  color: white;
+  font-weight: normal;
+  letter-spacing: 0.1rem;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  width: 95%;
+  margin: 2rem auto;
+}
+
+.input {
+  height: 1.4rem;
+  width: 100%;
+  background-color: white;
+  border-radius: 2px;
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.text {
+  color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  align-items: center;
+  font-family: "Roboto", sans-serif;
+  width: 100%;
+  padding-left: 0.4rem;
+}
+
+.textR {
+  color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  font-family: "Roboto", sans-serif;
+  width: 100%;
+  padding-right: 0.5rem;
+}
