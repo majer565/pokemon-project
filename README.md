@@ -9,7 +9,7 @@ npm run devdd
 # or
 m,yarn dev
 # orkljhn
-pnpm devm
+pnpm devmjh
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
