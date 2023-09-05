@@ -5,7 +5,7 @@ dssThis is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-n
 First, run the development server:
 
 ```bashhj
-npm run devdd
+npm run devddk
 # or
 m,yarn dev
 # orkljhn
