@@ -8,7 +8,7 @@ First, run the development server:
 npm run devdd
 # or
 m,yarn dev
-# orkl
+# orkljhn
 pnpm devm
 ```
 
